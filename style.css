@@ -1,0 +1,11 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+}
+.block{
+    width: 210px;
+    height: 190px;
+    background-color: lightgreen;
+    box-shadow: 0 12px 19px blue;
+}
