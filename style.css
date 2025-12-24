@@ -9,3 +9,14 @@
     background-color: lightgreen;
     box-shadow: 0 12px 19px blue;
 }
+.content{
+    width: 150px;
+    height: 150px;
+    background-color: lightcoral;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 0 10px 15px gray;
+}
